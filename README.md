@@ -5,7 +5,7 @@ In this project, you can add, remove, or modify your todos items. You can also a
 
 ## What does it look like?
 
-![What does it look like?](https://github.com/HaniaNassalska/todo-app/blob/main/README/readme.gif?raw=true)
+![What does it look like?](https://github.com/HaniaNassalska/todo-app/blob/main/readme.gif)
 ## [Demo version](https://hanianassalska.github.io/todo-app/)
 
 ## Used technologies
